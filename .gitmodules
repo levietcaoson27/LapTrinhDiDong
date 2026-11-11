@@ -22,3 +22,6 @@
 [submodule "BookStore"]
 	path = BookStore
 	url = https://github.com/levietcaoson27/BookStore.git
+[submodule "Component-Props-State"]
+	path = Component-Props-State
+	url = https://github.com/levietcaoson27/Component-Props-State.git
