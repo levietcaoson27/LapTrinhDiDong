@@ -1,0 +1,24 @@
+[submodule "bai1_bai2_redux_toolkit"]
+	path = bai1_bai2_redux_toolkit
+	url = https://github.com/levietcaoson27/bai1_bai2_redux_toolkit.git
+[submodule "redux-toolkit-lv3"]
+	path = redux-toolkit-lv3
+	url = https://github.com/levietcaoson27/redux-toolkit-lv3.git
+[submodule "redux-self-learning"]
+	path = redux-self-learning
+	url = https://github.com/levietcaoson27/redux-self-learning.git
+[submodule "redux-shopping-cart"]
+	path = redux-shopping-cart
+	url = https://github.com/levietcaoson27/redux-shopping-cart.git
+[submodule "gk_mobile"]
+	path = gk_mobile
+	url = https://github.com/levietcaoson27/gk_mobile.git
+[submodule "Bike_Shop"]
+	path = Bike_Shop
+	url = https://github.com/levietcaoson27/Bike_Shop.git
+[submodule "Vsmart"]
+	path = Vsmart
+	url = https://github.com/levietcaoson27/Vsmart.git
+[submodule "BookStore"]
+	path = BookStore
+	url = https://github.com/levietcaoson27/BookStore.git
